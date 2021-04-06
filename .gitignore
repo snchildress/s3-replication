@@ -1,0 +1,9 @@
+# dependencies
+/venv
+
+# sensitive info
+.env
+
+# cruft
+__pycache__
+.DS_Store
